@@ -15,7 +15,10 @@ Celle-ci devra respecter les conditions définies ci-dessous.
 **Groupe :** En solo
 
 ## Rendu :
+*jour 1*
 * Le diagramme UML
+
+*jour 2*
 * La structure de la base de donnée dans un fichier .sql
 * Un jeu de test de la base de donnée dans un fichier .backup.sql
 
